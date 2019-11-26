@@ -16,6 +16,8 @@ background-color: #0404B4;
 
 #menu ul li{
 display: inline-block;
+padding-top:10px;
+padding-bottom:10px;
 
 }
 
@@ -23,23 +25,24 @@ display: inline-block;
  color: lightgreen;
  padding: 10px;
  text-decoration: none;
- 
+  padding-right: 25px;
+  padding-left:25px;
 }
 
-p{
- color:aliceblue;
-}
-
-p.comeco{
+h1{ 
+  color:aliceblue;
  padding-top: 10px;
  padding-bottom: 10px;
   text-align: center;
    font-weight: bold;
    font:500;
+}
 
+p{
+ color:aliceblue;
 }
 p.fundo{
-  padding-top:120px;
+  padding-top:80px;
   text-align:right;
   font-style: italic;
     
@@ -61,7 +64,7 @@ footer {
   background-color: blue;
  padding-block-end: 20px;
  padding-block-start: 20px;
- botton: 0;
+
 }
 
 form{
