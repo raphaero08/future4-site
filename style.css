@@ -1,0 +1,70 @@
+body{
+  margin: 0;
+  background-color: greenyellow;
+}
+
+#menu{
+margin: 0;
+background-color: #0404B4;
+}
+
+#menu ul{
+  margin:0;
+  list-style: none;
+ text-align: right;
+}
+
+#menu ul li{
+display: inline-block;
+
+}
+
+#menu ul li a {
+ color: lightgreen;
+ padding: 10px;
+ text-decoration: none;
+ 
+}
+
+p{
+ color:aliceblue;
+}
+
+p.comeco{
+ padding-top: 10px;
+ padding-bottom: 10px;
+  text-align: center;
+   font-weight: bold;
+   font:500;
+
+}
+p.fundo{
+  padding-top:120px;
+  text-align:right;
+  font-style: italic;
+    
+}
+
+img { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+footer { 
+  position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+  background-color: blue;
+ padding-block-end: 20px;
+ padding-block-start: 20px;
+ botton: 0;
+}
+
+form{
+ text-align: center;
+
+}
