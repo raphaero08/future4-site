@@ -1,6 +1,6 @@
 function funçãoalerta()
 {
-  var = prompt ("email");
+  var email;
  alert ("o seu email foi enviado");
 }
 
