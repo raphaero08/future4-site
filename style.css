@@ -71,3 +71,13 @@ form{
  text-align: center;
 
 }
+.email{
+ border:none;
+ padding: 5px 5px
+}
+.button{
+background-color: #4CAF50;
+color: aliceblue;
+border:none;
+padding: 5px 5px;
+}
