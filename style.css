@@ -42,10 +42,10 @@ p{
  color:aliceblue;
 }
 p.fundo{
-  padding-top:80px;
+  padding-top:75px;
   text-align:right;
   font-style: italic;
-    
+  font-size: large;
 }
 
 img { 
